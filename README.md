@@ -144,3 +144,10 @@ This module will take you through the essentials of React, from understanding it
 ## 🚀 Let's Get Started!
 
 Are you ready to level up your web development skills with React? Each session will build on the previous one, helping you master React and create incredible interactive websites. Happy coding! 💻
+
+## URLs
+
+https://create-react-app-vercel-mocha-ten.vercel.app/
+
+https://create-react-app-vercel-mocha-ten.vercel.app/session-2
+
